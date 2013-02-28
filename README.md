@@ -9,8 +9,9 @@ This is a work in progress, but I felt it was important to post something before
 
 These are not 100% accurate and are just my notes from the conversation. [??] generally denotes that something was missed. Words in square brackets were added by me after the fact. changes in topic are separated by a few blank lines. omissions during an excerpt are are denoted by .... jumps in conversation during excerpts are denoted by ||||||| 
 
-EE: Ethan Elenberg
-ME: Mark Epstein 
+EE: Ethan Elenberg, EE'12
+
+ME: Mark Epstein, A'76
 ]
 
 
