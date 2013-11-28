@@ -3,7 +3,9 @@ Epstein2_17_13
 
 A conversation with Mark Epstein
 [
+
 ============================
+
 UPDATE:
 
 I apologize the 9 month gap between posting Parts 1 and 2. Inspired by the Working Group's efforts and #TwoWeeksOfLeaks, I became determined to finish and release Part 2 by today.
