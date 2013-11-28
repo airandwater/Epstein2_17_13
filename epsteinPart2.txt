@@ -1,0 +1,423 @@
+A conversation with Mark Epstein: Part 2
+
+[
+These are notes from a phone conversation with Mark Epstein, Chairman of the Board of Trustees of The Cooper Union, on February 17, 2013. It was a ~3.5 hour conversation in which we both spoke very candidly, and with Mr. Epstein's permission I am sharing what we both said with the community. Instead of curating or editing in great detail, I decided to post the notes in their entirety. I apologize the 9 month gap between posting Parts 1 and 2. Inspired by the Working Group's efforts and #TwoWeeksOfLeaks, I became determined to finish and release Part 2 by today.
+
+A lot has happened since Part 1 was posted: The Board of Trustees decided to charge tuition for those currently applying to enter The Cooper Union in 2014. A second occupation took place, this time in President Bharucha's office over most of the summer. As a direct result, students will have representation on the Board and a Working Group was formed to find alternatives to charging tuition. Although it encountered initial stalls, the Working Group has passed a no tuition plan and will present it to the Board in less than a week. Barry Drogin (who Epstein refers to by name several times) was elected to the group as Engineering Alumni Representative. Meanwhile new admissions staff has been hired, presumably to perfect the art of tipping a need-based sliding scale of aid, similarly to other institutions. Kevin Slavin, a write-in candidate was elected Alumni Trustee, proving that at least some alumni are paying attention to every piece of news that surfaces. The art program for high school students got a mega-donation that will keep it free, while the engineering program for high school students will cost $3000 starting next summer. TC Westcott and Linda Lemiesz, the administrative voices who were the greatest advocates for students, left under dubious circumstances. Votes of No Confidence totaled in the thousands. A new Dean of Engineering was hired with a background in online education research and computer science. 
+
+I included a summary of events because it makes a large portion of this interview more pertinent. For example, Epstein expressed his views on threatening protestors with denial of degrees and closing the art school if they refused to play along with reinvention exercises. It appears that tuition was inevitable; Epstein had made up his mind at least 2 months before the Board met in April to make it official. Many of his views are strikingly similar to what was outlined in The Dream Scenario, a leaked slide presentation dated less than a week before this phone call. I don't think releasing the conclusion of my conversation sooner would have prevented any events from occurring differently, but it contributes to our knowledge of how long certain ideas have been in the pipeline. I hope that our conversation contributes to the ongoing debate on the school's future. I hope that I asked the right questions, pushed hard enough, and posted it quickly enough for it to still matter.
+
+I know it's long, but please try to consider statements in their context without just copy/paste-ing random sentences. I have done my best to summarize Part 2 with excerpts, but it is not a replacement for the entire conversation.
+
+These are not 100% accurate and are just my notes from the conversation. [??] generally denotes that something was missed. Words in square brackets were added by me after the fact. changes in topic are separated by a few blank lines. omissions during an excerpt are are denoted by .... jumps in conversation during excerpts are denoted by ||||||| 
+
+EE: Ethan Elenberg, EE'12
+
+ME: Mark Epstein, A'76 
+
+]
+
+
+[discussing the urgency of Datatel and why Cooper couldnt develop something in house]
+
+ME: The Board is not evil people, the board has the same sense that you do. half the board are alumni. I didnt want to see money being squandered...[??] wastefully it was the right decision to be made
+EE: So that kind of infrastructure change, youre saying that was urgent and it needed to happen now
+ME: The computer system was not going to be supported. if there was any problem, if something went down, it wasnt going to be fixed and couldnt be replaced. it was awful. so we had to put a new system in
+EE: So there was no hope to develop something in house?
+ME: No. a computer system needs to be something tried and true. whos going to develop it in house?
+EE: Well, we have a databases course that has a project every year, we could have a combined class project to deal with registration that way
+ME: [??].. but we cant on that. theyre not going to come up with a system that tens of thousands of dollars could have created. as far as I know, those systems look like beta versions instead of tried and true [??]
+EE: Ive heard reviews from other schools, and even just hearing peoples complaints this year from people at cooper that it wasnt exactly the best. I dont know how much of that is the harsh transition or how much is that it wasnt the best program to use, but Ive seen a lot of bugs. The quality of cooper students, I feel like theres a chance we could have gotten a better-
+ME: 100% of people are going to say "That was great!" That never happens, especially at cooper. [...] the general feeling, the general consensus, was that this was the right one. TC [...] These things arent cheap to be built, but we did the right thing [...]
+EE: I havent dealt with TC much personally, but Ive heard a few things about her and I found it interesting that her previous job was at Brooklyn Poly, right?
+ME: Yea
+EE: And now theyre NYU Poly
+ME: Right
+EE: So I just thought that was kind of interesting, that she sort of there while that was all happening
+ME: The reason she came to be at cooper was that Dawes , in new york. so  opportunity to get right at cooper. [??] they were extremely happy that she did
+EE: But wasnt it Bob Hawks, the previous VP of finance, he didnt want the building built and we built it anyway, so he left?
+ME: No, Bob Hawks was at cooper for like 28 years, 30 years. he had been here a long time and retired
+EE: Alright so-
+ME: He didnt leave because of anything like that, he retired. All these stories that come out of the woodwork, its comical. [all these years] and TC is much better at the job than than he was, TC is much more open. Bob Hawks, it was always difficult to get information. Years back, [Bob saw 16%?? generation?, revenue generating?]... TC made it 1000x easier to get information from. And Bob didnt, due to a prior agreement, he retired. There are people out there who take everything and try to spin it [...??] Instead of saying "The Board made a decision.." they write "The Board made a terrible decision to do this" [...]  Barry Drogin [spoke to?] the wrong guy. its his own information, everything he does is spin everythin in a negative way, and make everybody sound like they have alterior motives that are bad or evil. everything is "terrible decision," hes spinning it so every little thing[...] I dont want to hear some private story about me walking down the street because hell have me walking down the street for some bad reason, when I could just be walking to my car. Im exaggerating a little bit, but [??]
+EE: Well, hes an interesting character. I think there are definitely things that can be learned from him. I know hes been looking back at the history of Peter Cooper and has come to pretty different conclusions that Jamshed has
+ME: Yea, because he- Jamshed and the others, the thing about Jamshed was, hes quoting things from Peter Coopers own language, hes not spinning it, hes telling it and showing it the way peter cooper would. and people scream these terrible things[...??] and its what peter cooper said
+
+
+EE: I think the library is doing a much better job than Jamshed, digitizing a lot of the early reports, and has come to some pretty different conclusions than Jamshed has
+ME: Well, I think- maybe more interesting conclusions for some reason but not more accurate conclusions. thats the difference
+EE: Im saying the library is doing a very good job archiving things now. and they-
+ME: The library, yes
+EE: And Im saying theyre drawing different conclusions than Jamshed has, as far as the intentions of the school. Its pretty clear, you know, they let in everybody who could [...] it was 1st come 1st serve basically, in the beginning. there was no merit barrier, and it wasnt even "lets let the working classes come in," it was "anybody could get in," anybody who could fit through the door could just attend
+ME: But then when there was extra room, they would take in people who were willing to pay, there had to be some thought to those who could just come in and those who would pay if they were willing to. there had to be some bar, I dont know what it was, but [??since they would raise it], it would make sense that there had to be some limit, some line in the sand between those 2 things. either they were getting in for nothing, or they were able to pay and they would do it. I dont know what the answer is, but theres got to be something, some line in the sand, to divide those 2 groups, right?
+EE: Well I think they were evaluated differently, when it came time to actually do the courses. the amateurs were held to a lower standard. and so it raises the question-
+ME: There were 2 different categories
+EE: Right, and so it raises the question: do we want to return to that time in our history? where we had amateurs coming in?
+ME: Were not looking to get amateurs. look, there are people in the school now who could pay something, alright, and they should pay something. thats basically what its come down to, because we dont have any other choice. we dont have any other options that are viable. if you come up with a plan [??that doesnt incorporate that??], believe me wed be more than happy to hear it
+EE: So-
+ME: We have to come up with a plan that works, we cant just talk theory now because of the position were in right now. thats the situation, something has to be done. we cant do nothing anymore, thats what has to were be done. and were trying to make it as sane, as painless, and reasonable, and keeping the interests of the long term school at heart. I know whatever happens now, theres going to be a few years of turmoil. whether we impose tuition, whether [??] whatevers going to happen
+EE: Could you repeat that? you broke up a little
+ME: I said that whatever happens, Im convinced theres going to be a few years of turmoil at Cooper Union. no matter what sort of thing: whether tuition is imposed, or the art faculty changes their mind again, I dont know. but I even said, even if a school closes, all the options are on the table. whatever happens, its not going to happen where were going to have a party. theres going to be turmoil, theres going to be disruption. but whatever we decide, my goal is that whatever is in place 10, 20, or 30 years from now, they look back and say "Yea, it was a tough decision, it was a rough time, but it was the right one." because whenever they look back 20 years from now, theyre going to say "That was a rough time and it was a rough decision to make." whether they say it was the right one or the wrong one, thats the question mark. I want to make sure its the right one, thats my goal
+EE: Well I mean-
+ME: Theyre definitely going to say there was turmoil and it was difficult. that Id put money on and Im not a gambling man
+EE: And I feel like were in a position to look back at CUNY and sort of see how theyve come in the past 40 years and make that judgement call on what they did
+ME: Well people werent lining up to go to CUNY for the same reasons they were going to cooper union. theyre different things, so I dont think thats apples to apples
+EE: Changing gears a little bit
+ME: Our art school has a 3% acceptance rate
+
+EE: Changing gears a little bit, I noticed that in the NYT report and also you mentioned earlier, about Maguire being the consulting firm, talking about the 25% tuition. could you explain the difference between Maguire and CDG? because I know CDG was another consulting firm that focused on different things, correct?
+ME: Yes, Maguire were the ones for the tuition [??] yes
+EE: Ok
+ME: And the other one, I cant remember what the focus of the other one was [??]
+EE: Ok, because I remember CDG came to cooper and they had a meeting during club hours. and a couple of students were there, and we basically asked them "what are you here to do? are you here to deliver a report?" and they said "well, we really arent sure if there are going to be deliverables. but were here to look at the operations and look at revenue and look at expenses and thing like that." so my understanding is that they sort of assisted with the task forces, and possibly with what happened after the task forces. with the different plans and projections, raising revenue and "how much can we get in 5 years? how much can we get in 2 years?" so 1 of the big things that I was curious about was through this whole year and a half is that yes, CDG comes on board, but how much are they looking at the revenue side and how much are they looking at the expense side? because it seems like the output that theyve provided to the cooper community has been a couple of bar graphs showing how much money we can raise. but I feel like weve probably paid them a sizeable amount, and Im wondering if theyve done anything on the expense reduction side
+ME: I dont recall the answer to that. but look, these problems that we knew, they were selected because they are pretty much the best at what they do. and this is the kind of information you dont want to guess at. we dont want our team, our inside team, to look at these kinds of questions. how much money do we think we can raise with tuition versus how much do we think people will pay? because you dont want to make a mistake on it. you dont want to get that wrong. so you hire professionals who do this on a regular basis. thats how its done. you cant expect the Board or the President or any 1 person to have all the knowledge of all the different parts.
+EE: From what I remember, what I recall, CDG were the ones who made the spreadsheets for the proposals, to model things. the excel models. but Im just curious if they had done anything else that anybodys aware of or not	
+ME: I dont know the full extent of what they did across the board with the administration, as they did with the trustees. I dont know exactly what they [??]
+EE: Because thats the big question that some people are raising is "Well, did they look at the expense reduction among the administration and whats come of that?" or did they solely focus on the spreadsheets. and I assume that because the Board meeting has been delayed that the Trustees have had time to actually go through the models and play around with them. because I remember that was a pretty interesting point at the December meeting. I caught the livestream of that and saw part of the presentations. but ok, its a little short of a deadline to be meeting in January, but if theyre meeting in March then hopefully youre able to assess things and assess those models
+ME: Were still looking over them [..??] we recently voted not to make the art school early admission offers go out
+EE: Right, but I mean-
+ME: Because we didnt have time to wait, the decision had to be made then. it wasnt fair to the applicants to withold [..??] to keep them waiting when it wasnt necessary [???] 
+EE: But couldnt you have attached a disclaimer, a warning or something with these acceptance letters, because now these kids have no idea if theyve gotten in or not. couldnt you say "the faculty thought-
+ME: Theyre just like the general admissions pool, they dont know either
+EE: Right, except they applied early. they got their materials in, and the opinion among those students is that cooper didnt hold up its end of the bargain
+ME: That can be their opinion, and I understood that because I dont know what their opinion is or not. if thats their opinion then thats their opinion. but the fact of the matter is, because of the reasons I told you, we could not have acceptance letters going out without being 100% sure that we would have an incoming class [??] We didnt hope it was going to be disruptive. This is hard to do, but theres unfortunately no way to avoid it. We couldnt tell them "Yes, youre accepted [?if we didnt decide to take it back?]"
+EE: Maybe this is a personal preference, but-
+ME: What we could have done is just said, to alleviate the dilemma, we could have sent the rejection letters out. they wouldnt have known anything about it, we wouldnt have put them in the general pool, is that fair? that was an option too. if we wanted to alleviate the dilemma, it would be like every other school where every early admission applicant gets in, right? so there would be another separate [early admissions offer]
+EE: Right. or even if we were this concerned about the process, then we could have just not had an early decision round this admissions cycle. but its too late for that
+ME: Its being turned around, this was not a retaliatory or vindictive at all against the art faculty. its not that. some people accuse us of that. its not, its just that because of the situation, that the option had to be removed from the table. because the art faculty had put us in a precarious situation. Look, we dont have this problem from the engineering school, we dont have this problem from the architecture school, but its a problem in the art school
+EE: Well, I mean, the engineering school put out 5 reports: 1 of them was on undergraduate tuition and that did not get approved
+ME: Yea, they [?discussed?] it, they dont have to approve it
+EE: So the difference is those other 4
+ME: It was a tie vote. [???] its a political move  [???] they dont want the students to come back and say [???] they dont want to take responsibility
+EE: Everything is a political move though
+ME: Look at what the art faculty did. they didnt prevent us from moving forward with a plan, to save the school, to keep the cooper union going. its going to be a struggle for a few years to get there, but were going to look back in 10 years were going to say "it was a difficult time, but the right decisions were made" theyre not being an obstacle to that. where the art faculty, unfortunately, chose to [move on it]. so why dont you call the art faculty and have a conversation with them and get their reasoning
+EE: Im sorry, I just realized its been about 2 hours
+ME: I have a bunch of time, Ill stay her for another 2 hours and talk to you, this is important. but the point is [???] go ask them
+EE: I can understand why they did it is because there has been no reaffirmation of the schools mission statement in the past year and a half from official channels
+ME: I understand why they did it too, but we have to do something now. we dont have the luxury to say "well were always going to keep it" we would love to say that. "Its always been this way, its so important, you gotta keep it this way," come up with a plan that enables us to keep this going. dont just tell me we have to keep it this way, tell me a plan, like the other schools did, that we can get out of this. they just said "you just have to raise more money" Twice in a meeting, we were going to try to talk, to come up with a plan. "lets get back to the issue of a plan." they just didnt do it. and I said to them in the meeting "I have to go back and report to the Board that your only suggestion is that we raise more money." I said that to them, and I didnt get any argument or any comeback on that. so I went back to the Board and I said "Look, all theyre saying is still - raise more money." and thats what [???] said: thats the same thing the city opera, the symphony orchestra, they all have the same stance. "Just go raise more money, make it happen." and the city opera left lincoln center, and the orchestra, thats what they did. when the financial crisis hit, 2008-2009, the federal government estimated that 1/3 of all nonprofits either closed or merged, ok. those are real statistics. 
+EE: That happened with Brooklyn Poly and NYU, but there havent been many other higher education mergers though 
+ME: They merged, thats right
+EE: And theres been a handful of closings, but nothing major.
+ME: A lot of those small foundations are closing. I was on the board of, I dont know if you know Exit Art, it was a nonprofit charity. I sat on the board of that for a number of years
+EE: No
+ME: A couple of years ago [???] we couldnt keep it up. another organization, the humpty dumpty institute, [...???], we had to lower [???] the the whole nonprofit world is in trouble
+EE: Right, and so-
+ME: I said earlier in the conversation, its not a uniquely cooper union problem. its a nationwide problem and its becoming [?higher today?]
+EE: Especially when you combine the nonprofit philanthropy side and the higher education side. I mean the fact is, the market is going to start to respond to this. and higher education, theres going to begin to be a backlash against higher education where fewer people are going to school and fewer people are finding these degrees necessary. and were going to see the same problem: its going to hurt all over colleges everywhere
+ME: With online education and the MOOCs coming in, you know the MOOCs?
+EE: Yes, I think we should be joining them!
+ME: Massive Online Open
+EE: Yes, I look at that and I see the future of free, higher education. and we are not a part of it! 
+ME: We dont know, again Im on a council of Board chairs, we dont know what educations going to look like 10 years from now
+EE: Youre right
+ME: No one can accurately predict that. if you were in 1960, you could say "10 years from now, itll be pretty much the same." 1970, same thing. now no one is saying that
+EE: Youre right, and instead when we looked at online education we looked at Minerva U, I think was the name I heard tossed around?
+ME: 1 of them, yes
+EE: And that was pretty much "Ok, pay for your courses..." they werent doing anything innovative, it was a very 10-year-old sort of business where you have these online courses and you pay. if we wanted to get into that game 10 years ago it may have been 1 thing. but it feels behind the ball with a lot of this. and now theres a concern that we do this tuition thing at a time when student debt is $1 trillion. people are going to start to take... natural market effects are going to come into play and theres going to be a backlash to this sort of thing. and then all of these colleges are either going to either reduce their tuition to meet the market demand, or youre right no one does know whats going to happen. so should we get involved now? should we play the game like everybody else?
+ME: How many things have been written: Is a College Education Worth It? I mean how many articles have I seen in the last couple of years where that was the general statement. what are you going to get out of that? do you ever expect to make that money back, and how long are you going to pay for it? [???] companies dont even need one, companies like google. you dont need to have a college degree to work a google. they allow high school kids that are just, amazing coders, [...] and google hires them. they dont need a degree, whoever wants them puts them in a room, and they just code, thats all it is they want to do
+EE: Youre right, and so its a big question mark, and there is a hope, I guess, that cooper was above all of this and wouldnt be involved in these sorts of games. but I think, you know, once you start to build buildings, and always be building, and thats just 1 thing that I can point out as far as joining the club of higher education. the last straw really is tuition, and now all of a sudden were a part of the american system, and were going to suffer just like everybody else
+ME: [All those sorts of things?] those who cant afford it wont pay tuition. weve had some very wealthy students who could easily have afforded to pay tuition anywhere
+EE: But did they pay tuition anywhere? or did they go to Princeton or MIT where they are helped out?
+ME: They came to Cooper Union. there have been a number of students, who are alumni now, who were wealthy enough to have paid the full [thing?] if they had to 
+EE: But no one does
+ME: I dont come from a wealthy family, my father worked for the city of new york for the parks department [???...] parents put some money aside for my brother and my education. could they afford to send me to harvard or mit? absolutely not. but if they had to pay $1000 a year? yea, we could have done that. would it have changed their lifestyle if they paid a little? would it have made a big difference to me? no. would it have made a big difference to cooper union if everyone who was in that situation, that my classmates [???...] without a doubt, everybody could have paid something. and over the long haul of the last 40 years if everyone paid a little something, we would be left with a much better situation today. I can definitely say that
+EE: No, but you dont know about the quality, again if we go back to the CUNY argument
+ME: The admissions process would not [change for??] anyone who couldnt pay
+EE: Once you impose that though, the boundaries change and then who knows if were looking at student #500 down the line or if student #200 looks like student #500 the old way. no one can say for sure
+ME: If that happens, then maybe we will have to say "maybe this wasnt the right solution" but theres no other solution. I really dont believe that will be the case, even if that is a feeling [that window??], that that is the case-
+EE: Yes
+ME: At least we did something
+EE: I believe that and-
+ME: If we do this thing for a while, how long is it going to take us until we learn if its the right solution or not? no one has a seeing eye [dog?], you know? and maybe [??] beyond this
+EE: Thats what I believe and its what a lot of-
+ME: Look, the admitted class now is not completely blind to everything
+EE: Youre right thats why-
+ME: So those prospective students 1-175 are there because we filter them. theyre filtered through racial diversity, theyre filtered through gender diversity-you dont want to have the engineering school [???...male], thats stereotypical but-Theyre filtered geographically, we want to make sure that about 50% of students come from the new york area, because to justify to taxpayers if all of our kids came from wisconsin would be a hell of a lot harder
+EE: Right
+ME: To use those tax dollars to educate a class filled with kids from [?every other state?]. so we monitor that. plus they also monitor the class to comprise of-especially the art students-they try to put together a class of students that would work well with each other 
+EE: Yes, and I know about the art admissions process, its amazing
+ME: [?A great student wont be accepted?] if they dont think he would fit in
+EE: I think the line is a little blurred there. people have different sort of styles and from what Ive heard, in the admissions process youd get into Group A, B, or C and they all have similar styles, attitudes, approaches, and approach problems in different ways. and Im not going to knock any of the admissions process. I think its done great to create a great, diverse student body. and the fact that half of them come from new york, being in school in texas I can tell you there is not as much diversity because youre only
+ME: Im not knocking it, Im just saying this is the way it is
+EE: Right
+ME: They place the students in different categories, so to say its a purely merit based [process?] is not true
+EE: We have our pick, you see, those same concerns are everywhere. but there is still a difference between the diverse cooper union class and the diverse california class and the diverse texas class because were able to select from the best of the best. and because our 200 are better than everybody elses 200. and my concern is that our 200 are not going to be better than everybody elses 200 5 years from now
+ME: But the studies from the experts, and the opinions of everyone involved in this from the professional side says that if we start charging 25% tuition to those who could afford it, youre not going to affect the student body. if you charge 50%, it will start affecting the student body. so theres a cutoff point somewhere, obviously, between 25% and 50%. so we have to be careful [???] this is exactly why you hire consultants who [?deal with this stuff all the time?]. and with the engineering faculty report, it seems to me that the staff could understand that shift to 75% scholarship instead of 100% scholarship
+EE: No, that is not the faculty report because the faculty did not approve it
+ME: Again, they didnt not approve it, it was a political move
+EE: Everything is a political move, though
+ME: [?You dont understand?] the politics of it. no one wants to say [?it was their tuition decision?]. they just dont want that so they leave it [?out of?] official business but its in their report
+EE: Jamshed is filled with political moves, I mean thats why he assigned each school to do-
+ME: Look, I still havent talked to someone who has said something else back. youre not getting that. it was a political move, they just dont want to be accused of ok'ing tuition
+EE: And neither does jamshed. politics run abound everywhere
+ME: But whats in the report? be real about this
+EE: Im trying to be real, but everybody is guilty of these politics. jamshed is guilty of these politics by administering to every school, "Come up with your own solution." he doesnt want to be blamed for the tuition either. politics are abound in this
+ME: Hes not afraid of it. If he was the first to propose it theyd kill him, ok? theyve harassed him, theyve harassed his fiancee, its disgusting what some of these people in the opposition are doing to him. and I had a meeting with the faculty on monday, and they [??] pitting the schools against one another.
+but hes giving each school the opportunity to help themselves. it wasnt a competition between schools. they turned it into that. the art faculty used the term "subtle coercion," did you see that? he didnt threaten them, he said "if you dont come up with a plan that works, and is sustainable, an option would be to close the school." thats not a threat, thats not subtle coercion. if I tell you "if youre driving 20 miles above the speed limit, youre gonna get 3 ponts on your license," thats not a threat or subtle coercion. thats just an explanation of consequences of a particular action. so jamshed didnt coerce anybody, he said it its not sustainable it might close because its not sustainable. thats factual, theres no [??] about that. to use the words "coercion," "forcing," and "turning the schools against each other," thats nonsense.
+EE: So one thing that comes to-
+ME: Open your eyes and see what it really is. jamshed gave them the option to have their own destiny in their own hands, to come up with a plan that you can live with and you can support. that was the mission he gave them: come up with a plan that is sustainable, that you can back, that you can support, and we will continue to work together and make it happen. no ones trying to push the schools apart or put them against one another, its infuriating to me that people try to turn it into that. "subtle coerscion"? tell it like it is. if the school is not sustainable, it will close. you dont have to be a harvard MBA to grasp that concept. if you run out of money, youre out of business
+EE: One thing that comes to mind though is that it might make more sense, it might be more attractive to have a pre-med program in the school of engineering than it is for an MFA, because MFAs are on the decline. and high school students cant exactly pay ridiculous amounts for the summer or during the year. those are the sort of options that are getting kicked around. so they basically concluded that
+ME: Its not an either/or. this is what I mean, its not an either/or. what /youre/ doing is /youre/ putting one school against the other. we never said its better to have a pre-med program than an MFA in the art school. /you/ just placed the schools together. thats the kind of conversation we never had in the boardroom. if the engineering school feels that a med program is a good idea, which I think that it is, fine. if the art school wants to make a fine arts program, thats fine too. one thing has nothing to do with the other. its not a competition. Im glad you said that, too. its exactly my point. /You/ made the competition out of it, not us
+EE: I wouldnt say competition, Id say comparison, but I see what youre saying
+ME: But were not even comparing them. All were comparing is are they sustainable or not [??...??] because were looking at the numbers. look, the Board is responsible for the financial stability of the school, so the numbers count. were also responsible for the academic excellence of the school, and the teaching. [???] but we are not local to that type of solution. because we are not the ones who decide what we should be teaching, for that we need the faculty. thats what they do have to give them enough money to pay the bills or you go out of business
+EE: So-
+ME: Its simple. as I said, you dont have to be a harvard MBA to grasp that concept
+EE: So what do engineering faculty know about pre-med?
+ME: Well, we have some people who teach those pre-med type courses there already
+EE: So is the plan to-
+ME: a program with hospitals who measuring the [?...?] there are a bunch of medical types researching [???]
+EE: But theres a difference between research and teaching pre-med classes for people to get into med school. and its one thing - this is a whole other argument - should cooper engineers who are trained in engineering, and committed to engineering, be branching off into law and finance and medicine and things like that. but my understanding is that there are some interdisciplinary engineers who then go on to med school, and thats great, but is that enough of an expertise to to say "ok, were in the pre-med game, lets try to establish our brand in that" Hello??
+ME: We got disconnected, but before we got cut off, the question came up of what should we be teaching. you mentioned medical, biomedical
+EE: Right
+ME: I dont know if you heard, but on the Board most of us are not academics
+EE: Yes, yes
+ME: Were not scholarly
+EE: Right
+ME: And the question was should they be teaching it, should they be trying. and I said we are doing biomedical stuff now.
+EE: And then I started to respond, I said theres a big difference between biomedical research and teaching, preparing people to go to med school.
+ME: And I started to respond to that, I said "What should we be teaching?" is a very good question. and we look at that. theres a pre-med and theres nuclear physics. that should be teaching for years to come. I mean, where is engineering going? the field of engineering, what are the big things? obviously information technology is a huge field and only getting bigger. should we be searching for efforts on that? Biomed-
+EE: Those are 2 year programs, typically
+ME: Should we be going in to that? nanotechnology? biomedical technology?
+EE: You need labs
+ME: Energy technology, these are the things that the world is going to need
+EE: Those are research university-type concerns because you need big machinery, you need big things. The University of Texas, where I am now, theyre big into those sorts of concerns. Cooper, at least from the engineering point of view, has largely been the big 4 disciplines: electrical, mechanical, civil, and chemical. and has taught those fundamentals very well, and has introduced grad-level thinking, and has specialized into grad level thinking so you can go beyond into other sorts of courses afterwards. but establishing the fundamentals and going from there, as opposed to a major in biomedical or a major in nanotechnology or a major in energy. those, you really cant specialize into that at the undergraduate level. also, then you also get into the other idea, as you said, IT and pre-med, which are more professional based. IT programs is not the same as an engineering degree, and they are typically 2 year certifications. thats a whole other story, and thats not something that was tossed around as one of the suggestions
+ME: The whole talk about what we should be teaching is a whole other conversation entirely than where we started
+EE: Right
+ME: Im trying to make sure that the cooper union is here to teach whatever it decides to teach. if the cooper union is not here, it doesnt matter because we wont be here to teach it. we want to make sure cooper union is sustainable to make sure that in years to come its still possible to be teaching what we should be teaching. but the definition of that is Im going to look for others right now. thats not the first thing on my plate right now. there are other things to do, Im still on entree, Im still trying to get folks to be able to run a sustainable school
+EE: Right. Well, the fundamental way of being sustainable, and that really ties in with all of the student debt right now, is the fact that we have this huge debt service. and the big question of why we took out this loan, which you started to explain and justify and rationalize. whether it made sense at the time-
+ME: The loan was taken out because the capital campaign was going slower than [??] we didnt want to start the new building until we had a certain amount of money. that was the initial goal. also, you have to understand, we had price locks to get the building built, we had guaranteed pricing to build the building. and if we had built beyond a certain date, those prices would no longer be valid, the cost of building the building was going to go up
+EE: But it went up anyway
+ME: The price to build it, the contractors, it was a contract. if you start the job by, you know, august 1, this is the price. but if you go beyond that, the price would go up. thats normal. so we were nearing that date where we either had to say go, or end up spending more for the building. [??because the new building would not have arrived if we took the other deal??]. so what happened, to bridge that gap, we took out a loan from metlife on the chrysler building, [?? assessed what was happening?] and because there were great returns in the market, and we were getting the loan from metlife for [??low interest??],  if we could get more than we needed and invest the rest of it in the investment pool. because if you figure we're paying 8% interest on the money and we're regularly earning 20% interest on our investments, then its a wise move to borrow money [???]
+EE: That dosent sound very conservative, though
+ME: Well, its pretty conservative when youre investing those kind of returns for a long time, and nobody anticipated the world collapsing. even if things went bad without collapsing, we could have earned 8% on it
+EE: But I mean-
+ME: It wasnt like we were going to lose all the money because of these investments. if it wasnt 20%, even if it went down and we were only able to earn 6% on the money, and losing 2%, it was still worth the risk. thats not an unsafe risk, compared to [??taking steps??], that we really needed because we werent charging tuition. nobody wanted to think about charging tuition, that would have been another option. borrowing a $175M loan, part of that (~$20M) went to paying off existing loans we had on the dormitory
+EE: Right
+ME: Those loans were from [??]. but metlife didnt want their loan to be subsidiary to the 1st loan. so the loan was more than we needed because it also paid off other [??]
+EE: But then-
+ME: It was also $175M in new debt
+EE: But then the cost of the new building went through the roof anyway, because nothing met plans. is that correct?
+ME: What?
+EE: The new building didnt meet any sort of goals for construction
+ME: No, the building ended up costing ~$160M. I told you, it was paid for. [??] naming opportunities, and the payment of tax, adding that money to the endowment [??], the equivalent of 40M in the endowment. it doesnt take... all this talk about the building hurting us, thats not true. its one of those made up facts that people dont want to let go of. its hard to convince people because they dont want to hear you tell them that. "I had it wrong, but the building ended up helping us," they will never admit to that. I dont know how many times in the last year Ive had the same conversation with people. they refuse to look at the facts and insist that the new building hurt us. look, we had to pay tens of millions of dollars fixing up the old 2 buildings, and we would have been left with 2 aging, crummy, fixed up buildings. [??]
+EE: So even if-
+ME: If you were in the boardroom when the decisions were made, I bet you would have seen the logic and would have voted the same way
+EE: I think some professors, some faculty members, were in some of these discussions with the building and brought up concerns, and they were ignored
+ME: Because they didnt make sense, because the building didnt hurt us financially. [??the building was a smart move??]
+EE: So even if-
+ME: $98M in the endowment, we sold naming opportunities for $60M, thats over $150M that we got for the new building. weve got the equivalent of $40M in the endowment with tax payments. tell me where the building cost us money
+EE: So even if you-
+ME: The building didnt eat up the debt, youre talking about the loan. the [?deficit?], of that loan, not the building
+EE: Couldnt you have used the capital campaign funds to plug the deficit then?
+ME: Well, part of the capital campaign funds went into to the endowment, the general pool. that money was invested. we still have $100-120M in the investable portion of the endowment. we still have that. were not broke
+EE: Were not broke?!
+ME: No, we have assets. but we are not making enough income to pay the expenses
+EE: Ok, because every-
+ME: Thats the formula [??]
+EE: Every argument Ive seen is that we /are/ broke, this is crisis, we need to do something
+ME: Were not broke, we have a ~$650M endowment and ~$175M in debt. tell me where were broke
+
+EE: ...Even accepting these arguments, putting that aside, the public perception is still "Ok, they built this building and now theyre broke"
+ME: Its being put out by people who are making up their own facts. this is what I started talking about, what weve been up against. Barry Drogin, and the crowd who follows him, who think that thats correct. its not. were going to have another public forum on march 1 in the great hall
+EE: Yes
+ME: Youre going to hear a lot of the same stuff you heard in november, a year and a half ago, because the facts havent changed. I have the same facts I had a year and a half ago. and the same people will not want to hear them and not believe them again. a whole room up there [??of people who are there to help??], but youre not going to convince the ones who are making up their own facts. mind your own opinion about it. [???] dont tell me the financials were a bad move. you cant change from opinion to facts
+EE: So, my concern is that
+ME: People make the argument that if we didnt take the investment portion of the endowment, $120M roughly, right?
+EE: Yes
+ME: And we borrowed $175M, lets say we borrowed $150M (because some went to pay off the other loans). so we have $150M, for arguments sake, in new money, borrowed. 120 in the endowment, we borrowed 150. if we didnt borrow it, where would we be? -$30M, we would be out of cash
+EE: Part of looking back now-
+ME: Now the deficit ate up the loan [??] and we continue to eat up what we have unless we do something now
+EE: Well I mean, a large chunk of the deficit is the payments on the loan
+ME: Yes, we have to pay off the loan, we have to pay the debt
+EE: Right
+ME: But it wasnt about the building. money is flexible, if youre going to have [$170M??], 130 for the building and the dormitory bonds. but in the meanwhile, new money is coming in from the capital campaign in naming opportunities. so now its 175 and we got $90M on the ground lease on the engineering building. so now the 175 is no longer needed for the building. it went to the deficit. money is fungible that way. [???...] my entire business career, my accountant put it all in basically 2 columns: money in, money out. thats all I needed to know. how to take a loan debt
+I just needed to make sure that [?I was taking a load that I was putting on?]. and it was ok. thats why I had big businesses and knew when they were finished. what started happening was, it was great running a printing business, and then the digital age came about and started chipping away at what we were doing. and we knew that the money coming in was getting pretty damn close to the money going out, the business was declining. what you could do in photoshop for pennies would cost us hundreds of thousands of dollars to produce. [???] thats when I closed my business down, because I knew that was the writing on the wall. I didnt have the option of charging more, who was going to pay for it? I didnt have the option of charging tuition to people
+EE: Right, well you could have taken out a loan
+ME: Take out a loan? If I took out a loan, Id have to pay it off
+EE: Yes, thats what coopers doing right now
+ME: For me, it was easier because it was a business, not a school, it was easier just to close the business down. I could have taken out a loan, maybe just to [last longer??], but then Id have to pay it off. there was no reason to keep that business going any longer because it was obsolete. I dont think thatll happen to the cooper union. so in that case it was good to take out a loan because it wasnt obsolete, if you want to see it that way
+EE: Right. but then we should-
+ME: In a purely business sense? yea, if it was a business, Id say close it down, sell off the assets, return the investments of the shareholders, and call it a day. but thats not what cooper union is about
+EE: So then if we go back to this crossroads that were at, where you say ok: we either have the academic excellence or the full tuition scholarships. we could push it back to '06 and say "we either have this cooper union school with the excellence and the scholarships and the no loans, or something has to give so well petition the Cy Pres, Attorney General, take out a loan, and get a few more years out
+ME: Well, that was prior to realizing that the capital campaign was not going to be successful, it was prior to seeing the world collapse, the endowment took a hit, it was prior to donations dropping off because of the world financial situation. who could accurately predict that? so taking the loan out, the market was in the housing boom [???...] thats what I said the other day, it was a perfect storm: the capital campaign was not successful, the world collapsed, [??] no one could anticipate
+EE: Expenses increased instead of decreased
+ME: negotiate, bargain, but no they, they do it all the time. they didnt want to chip in for their copays for their health insurance. now you expect them to figure out [???]? I hope your happy. the engineering  faculty, I might see that. the art faculty, theyre not analytical, [??...consultants?] they all said "just raise more money." they look at the numbers and dont understand that you cant [???] whenever theres trouble, "just raise more money." the worlds collapsing, all the nonprofit organizations are all fighting for obama.
+alumni, I get calls not every day but regularly, from people [???] "george soros, [?? build a bridge with??] michael bloomberg." every charitable organization in the country has had that conversation
+EE: So its more a question of-
+ME: Or Bill Gates, "if we got to Bill Gates he could solve our problems." every school in the country think Bill Gates might come and solve their problems
+EE: Bill Gates is curing malaria, isnt he?
+ME: I know, but he has the ability to cure our problems. every organization, big, small-
+EE: Its more of a question if cooper is still relevant. and I hope it is, but have we outlived the 19th century ideals of cooper being relevant?
+ME: Well it turns out the story that we think, unfortunately, it turns out the story that we think is so compelling, [??the achievements??] and, you know, the quality, the all the other stuff. it turns out its not as compelling to others as it is to the cooper community
+EE: I think I disagree slightly-
+ME: [???? would not have been???] let me rephrase, no it wouldnt because cooper alumni dont even do that
+EE: I have to disagree somewhat with that because if you look at when the cooper 11 occupied the clock tower, that generated more awareness and more publicity and more statements of solidarity from all over the world. I think that this message does resonate with some people. and I think that it is-
+ME: The other side of that is "I cant believe what those spoiled brats are doing. these kids are getting a free education and this is the way they behave?" thats the other side. people dont want to support, and give money, to educate those kids. those students
+EE: Well, perhaps the didnt-
+ME: The Trustees, after the students demonstrated in the Boardroom, the Trustees were like "I dont really feel like supporting these kids." [???] Look, protesting is ok, there are ways to protest [???] I could say - its not in my power so this is a real hypothetical - when you graduated from cooper union, who granted you a degree?
+EE: The State of New York and the Board of Trustees?-
+ME: The faculty dont grant degrees, the Deans dont grant degrees, the President doesnt grant degrees, the Board of Trustees grant degrees. The Board under the recommendation of the faculty and the Deans
+EE: Right. and the State of New York is in there somewhere, right?
+ME: We have the authority under the State of New York
+EE: Ok
+ME: Every school has to get accreditation and then is given the authority to grant degrees. at a high school [??] but at cooper union, the board of trustees grants the degrees, right?
+EE: Ok
+ME: What if the Board said "you know what? we understand the recommendation of the faculty and the Dean, but what if we dont want to grant degrees to kids who set that example, who are so disrespectful? what if [??we dont think that is??] what a cooper union student should be?" and we say "you know what, lets give out degrees to everybody else but lets not grant degrees to these kids." thats our protest. do you think theyd like that?
+EE: No
+ME: We have the right to do that. Im not advocating that we do [??as some sort of threat??], but we have that right, and we can claim that its our form of protest. if they want to protest in a creative form, we can do it too, we should do it too, you know? Im an art major, there are a couple of other art majors on the Board [??] what do we say to that? I know about protest [??? vietnam era ???]
+EE: Yea
+ME: I know about protest. so if they keep it up [??as protestors??], theyre not getting degrees from this school. good bye! [??dont ??]
+EE: Yea well, I guess my concern is that some of that aggravation, appears at least from a public standpoint that some of that is already beginning to unfold with early decision applicants
+ME: Well, no. as I said before, this is not in any way a retaliatory or vindictive move on the Board. [???not approved by the board and thats a board charge???] we chose that incoming class, but we dont have a sustainable model for the art school. this is what the art faculty was told back in august. and in private conversations with an art faculty member months ago, I said "If you dont come up with a plan, the art faculty might may not be teaching art [????]." and it created a potential controversy. I said theyre gonna be teaching or looking for professorships in new mexico and indiana and places that are looking for art professors, and theres not a whole lot of them out there
+EE: Really? I mean I know from the engineering side, I cant imagine this would be any different in any other place, that a professorship is very hard to attain and you dont want to be in the market of looking for a job in academia right now
+ME: Well that was my point. that youre not going to be teaching here in a year, because you have to have a job wherever you can find it. and it might be new mexico or indiana, because not a lot of people want to go there, so it might be easier to find a job there. that was my meaning when I said it, you know, get real. if you dont come up with a plan that sustainable and in fact the school has to close, what are you going to do? well, get out your resume because youll have to walk away from your job, your benefits, and everything, and I respect that. if youre not willing to walk away from it, then dont [???]
+EE: And then replace them with somebody else who-
+ME: You cant have it both ways. in the meeting, I said "you want to cut the budget by 1/3, which 4 out of 12 of you are going to walk? or which 3 out of 9 of you are going to walk?"
+EE: Well, I know-
+ME: Is that threatening? I said "You say you want to cut? this is what cuts mean" a drastic cut like that is a drastic cut
+EE: I know that a few people in 30 cooper have left. Im not sure if theyve been replaced or not, if thats the sort of attrition youre looking for
+ME: The person in charge of major giving left, and I know they hired someone relatively recently. I mean you cant go without that, you have to have that
+EE: Well I mean-
+ME: Hiring freeze doesnt mean absolutely, nobody, zero hires. were not getting new people, and unless somebody new comes in who could be dealt without, were not hiring any people. this is an administrative decision, [???]
+EE: Is Dean selection under the trustees or the administration?
+ME: Administration
+EE: Ok, because Ive seen a few job postings and-
+ME: Well, let me rephrase that. at cooper union, the faculty is in charge of picking the dean
+EE: Oh, really?
+ME: The faculty has to make recommendations to the president
+EE: Really, I wasnt aware of that
+ME: This is my opinion, ok, because if youre looking for a dean with true leadership and vision, which by definition is going to come from change, how do you get people to vote for that? how do you get people to vote for a dean that might try to bring in programs that you might be teaching? [??just my personal??] thats the problem with cooper union, it shouldnt be that way, its not the best way for a school
+EE: I think the argument goes a little both ways, I mean trustees elect themselves also. so Im sure you want to be in a position to add more trustees and feel youre in the best position to see what a trustee does. and I feel like thats part of the reasoning for why faculty would want to be very involved in the selection of a dean
+ME: Well, no, its different because the fact is to bring in a new trustee - we make sure they make an annual minimum gift that I talked about before - but we want to make sure that theyre bringing something to the table that were looking for. but right now we could use more academics on the Board. we had a president of another university on the Board but she had to retire a couple of years ago. again Id love to get another, we might get another college president on the Board, I wouldnt mind getting a couple more. but one coming on the Board is not knocking anyone else off, because we have empty seats now. cooper was limited to 25 trustees for a long time. we wanted to increase that so we had to apply to the attorney generals office to get permission to raise that number to 40. we have that permission for up to 40 trustees now. [???] so there are all these empty seats right now. so theres a pretty big difference between the faculty appointing their own boss, in a sense
+EE: Is there any advantage to having more board members, other than having more donations?
+ME: Theyre there because first of all to give with more capacity to raise more money. part of the development of the board members is that most places have whats called a "give or get" policy: give money of your own or get money from other people. or give and get, more accurately. give money but you also have to get money from others as well. so we have more people asking for money who give, its easy to get money once youre giving. someone can say "give money to this organization. I havent given money but I want you to give something." thats a much harder argument to make than saying "Ive donated to this place for years, it would be great if you could help out too." thats a much more compelling argument. and also, they have more expertise. we want to make decisions with the most pertinent information we possibly can. we dont want to make it flagrantly. and I dont think the board has made many flagrant decisions. at the time the decisions were made, they were made by a group of [??] , intellgent, successful, experienced people, and thats not just at cooper though. we dont get paid for what we do. nobody is making money off cooper union, everybody donates. something: time, ...
+EE: And theres conflict of interest statements, and everything like that. but 1 of the reasons I asked about the size of the board, is that a valid strategy that the art faculty said, then? raise more money, theres more trustees, theres more minimum donations, theres more "give or get"?
+ME: No.
+EE: Its not enough?
+ME: No theyre not going to affect [??]. its not like we havent been trying to raise money, weve always been trying to raise money. we [??] maxed out at this point [??]. were not going to be able to make up the amount because theres not a guarantee that we could. we want to go with the best odds. counting on giving in this economy, with our history and our experience with giving, and the poor alumni turnout given? to count that as a way out? even if we triple or double it, lets say we go from 25 to 40 board members, thats a 60% increase. so we increase the board donations by 60%. its still not enough, it could be a piece, it could be 1 of those pieces we talked about earlier, its not going to be the whole solution
+EE: Right
+ME: We dont want [??to go broke??] weve got to do as much as we possibly can. everybodys got to do something. not the faculty saying "you go raise more money," thats not going to do it
+EE: So-
+ME: And thats basically what the art school has said, the art faculty
+EE: So, did you say that
+ME: "Well help you, but you have to raise more money"
+EE: So, you got approval for 40 trustees, are there 40 trustees now is what you said?
+ME: No, no. its not easy to get trustees that want to come into cooper union at this time, with all the stuff thats going on
+EE: Ok, because-
+ME: When theyre reading about students barging in and overturning the Board of Trustees meetings, do you think that helps more [??] to the school
+students dont know how damaging that was, what they did. how do I go tell people this, "Im on a great board, this is a great school," and then have students [?scream?] in your face at a board meeting? [???]
+EE: Youre right, I wanted to tell them-
+ME: [??I understand that they put up a donation??]
+EE: I wanted to tell them "sit down, shut up, take notes, dont cause a disturbance," but
+ME: They jumped up on tables, crying, [??...??] and you think Id want to pay for that kid?
+EE: Theres a bit of a-
+ME: Do you want to pay for that kids tuition?
+EE: Im going to try to make a distinction between those students and the students up in the clock tower. I would gladly pay for tuition for the students who occupied the Peter Cooper Suite because they generated more awareness and more publicity for the school than the development/public/external affairs has done in the past decade
+ME: None of that has brought money in. none of that has brought money to the development office. and what they did, they locked up one of the elevators (the round elevator) so the rest of the building had to function for a week with 1 elevator. there were classes scheduled in that room because the peter cooper suite is a classroom. everything had to be rescheduled, unfortunately. and made demands and stated in those demands that they were not going to negotiate. thats why the administration gave up. they didnt talk to them and they had been coached by outside agitators, you know people with Occupy Wall Street or whatever, and this is a quote from them, that they would "negotiate with no one." and one of the demands was that the president resign
+EE: I think that thats-
+ME: Theyre a disgrace
+EE: How is jamshed as a fundraiser?
+ME: [???] Nobody could get up there [???]
+EE: Going back to jamshed, I know a lot of people have several different claims against jamshed. 1 being leadership and vision and things like that, whether you think that he wants to transform the school or whether you think he doesnt have a vision for the school. whether he can articulate a vision for the school, one of my biggest concerns-
+ME: Sure he has a vision for the school, hes presented it to the Board. but now is not the time to go public with that kind of stuff because theres too much stuff going on
+EE: Ok
+ME: Solve the financial thing and then we come out with the vision. and then we start a new capital campaign to raise money for that vision. thats how its done
+EE: Well, I think a lot of people have been waiting on that for a year and a half
+ME: Well you know the general rule of thumb, when a college president starts on the job, the advice that has been given to every other college president, the general rule of thumb is "dont make any decisions for a year." jamshed came into this and had to hit the ground running. it was a very difficult situation financially... we originally took a vote of confidence in jamshed and it was unanimous. the whole board thinks jamshed is [?good?] for the job. [???...???] but people dont want to hear that. people like, you know, bloodshed
+EE: Well, its hard to evaluate his vision if I dont know what it is. but going back, 1 of my concerns with jamshed is him as a fundraiser. I know that he goes all around the country for alumni events and trys to raise money, but I have no indication of how successful hes been
+ME: Well hes gotten some money from some alumni, but hes also unhelped by the fact that   non alum now with a large gift of support
+[??of the students??}... hes trying to get a big gift, possibly, from a non alumnus. from other places that he knows
+EE: Ok, so is this separate from-
+ME: Understand that people have said to jamshed, "why should I give you money to pay for the education of a kid whose father makes more than I do? who doesnt pay?" we have an art
+EE: Well, I think that the case-
+ME: ...whose father is one of the most famous artists on the planet. extremely successful artist. if I mention his name, youll know it. he hasnt given us anything
+EE: I think thats another argument for- I dont think thats necessarily right, but I think thats his call ultimately. and I really think that, you know, jamshed needs to be making this case, this argument. its great that he has some donors, but Im curious, the only thing that-
+ME: [???]... with all this stuff going on, hes doing a damn good job
+EE: Ok-
+ME: Knowing the amount of time he has to deal with all of this, the president of the school is not the vice president of development. the development office, [after many years???], is still dealing with the challenge of dealing with an alumni body who dont really give. and were trying to find more and more outsiders to donate to the school... last year was the best year, we raised $2M (I dont know the numbers exactly). the alumni office [??], costs over $1M to operate, with salaries, and everything they do. so how much money, how much do they donate to the school on a regular basis? theres the capital campaign, but thats [???]. alumni giving is $1M something-its pathetic
+EE: But how many people donated to the capital campaign and then not to the annual fund?
+ME: Well thats one of the challenges when you have a capital campaign, is that you want the rest of the world to continue giving to the annual fund and make a capital campaign gift. the goal is that,... for an annual gift, yea you have money from salary or your checking account, you make a gift: it could be $10, it could be $10,000. the capital campaign gift, its supposed to come from your assets. most capital campaign gifts are large enough that you spread them out over 5 years. people give a $1M gift to the capital campaign, they pay it off as $200k for 5 years. thats the way you want to do it
+EE: But I mean-
+ME: Heres another thing that Barry Drogin [editor of the Alumni Pioneer, engineering alumni representative to the Working Group] wrote. lets say you make a $1M gift. as soon as you make that pledge, its counted towards the total, ok? $100M capital campaign and you donated $1M, thats 1% of the campaign thats been completed
+EE: Right
+ME: You pay it off over 5 years. so in year 1, you paid $200k. in year 2, you paid $200k. barry drogin looked at that and said "the school said that they raised $1M, but I only see $400k! wheres the other $600k? they took that! what happened to that money?" this is what barry drogin did to the capital campaign. part of the capital campaign money was in bequests. people say "I want to leave you $5M, but Im still alive and may need it but Ill leave it in my will. when I die, youll get the $5M" thats countable towards the total. now the money you raise is a certain amount [???] because you dont expect that anytime soon [???] tens of millions of dollars in bequests as part of the capital campaign. we didnt get that cash yet, but we know its coming. barry drogin asks "where is the rest of the money? who lied? they pledged $1M, I only see $400k, theres $600k thats missing!"
+EE: I think part of the issue is-
+ME: You dont donate that much to the cooper union and then [??it disappears and is unaccounted for??] thats what barry drogin is saying
+EE: I understand, but part of the issue then, is that the $1M figure gets publicized as "we raised this much," but then being a realist you cant pay the bills with that and you cant-
+ME: Because thats how capital campaigns are always done. when you drive by a hospital and theyre raising money and have a thermometer outside, the red line on the thermometer goes higher, they dont have all that cash. the total the cash that is pledged to the goal. you start a $250M campaign and [?...?] we dont keep the campaign going for another 5 years until we have $250M cash in hand. the total is cash in pledges, thats the way capital campaigns have always been run, thats the norm
+EE: Ok
+ME: We dont wait until the last donor dies to then claim the capital campaign was successful
+EE: So then-
+ME: So this what I mean about all the misinformation, [???.....???]
+EE: I think its just the shift in all the good news, and now all the actual news. because we had heard that "Oh, capital campaign is doing great" and then we hear "Well, theres not enough money." and now all the admissions materials, instead of lauding the "free as air and water, full tuition," now all the promotional materials are just very safe. and I wanted-
+ME: Well part of the thing was the news that went out was that the previous administration, their approach to it.. look, nothing the board said was untrue. we did not make any statement that were not true, ok. but the spin on it was... people dont donate money to organizations in trouble. its very hard to raise money for organizations in trouble. [??] why do you think people donate to harvard? it has a huge endowment and is doing great. [??after the crash...??] 
+places with a huge endowment stay that way because people throw money at them. bad news [??alumni??] makes it harder to raise money. thats a fact. thats not an opinion, thats a fact
+EE: But at a certain point, weve gotta come clean and say heres what the finances really are?
+ME: Well coming clean, it wasnt intentionally... we were also, things were getting worse. we technically had a balanced budget in 2008. there were reasons it was balanced, but if you looked at the sheet it was a balanced budget. therefore what the board said was not untrue. I wasnt happy when those things came out, but the thing that I was not happy about in particular was in all those articles, claiming how we were doing well, there was no mention that a third of our budget has to come from [???peoples donations??]. thats what I was annoyed about. the biggest misconception about cooper union is that "hey, they own the chrysler building, they give out 1000 free scholarships every year, must be rolling in dough. they dont need my money." thats the misconception. and those articles didnt [??mention anything??], thats what annoys me
+EE: My understanding is that a lot of alumni believed that for the past 10 years
+ME: Well, no
+EE: And so thats part of the reason why you have-
+ME: [???as well as the market...???]. yea, I know
+EE: So whether that rests with the board of trustees, or other image/public affairs problems, is another discussion. but thats a huge point that needs to be considered whenever we talk about this 20% donation, participation figure. Things, you know, seemed ok. And before that, before the past 10 years, it was higher
+ME: The board of trustees never, that was the administrations problem it wasnt ours. but because-I dont want to take full credit myself- but [?I helped start?] and we now have a communications committee on the board of trustees who are working on getting those communications problems solved. thats pretty fair
+EE: Right, so 1 thing-
+ME: I didnt like the message going out
+EE: One thing that - as were talking about communications - I sort of asked about the deans a while ago. I saw a job posting for the Dean of Engineering that, again much like the marketing materials, just seemed very safe. its "ok, we have this school in new york city," and it didnt even have the word "scholarship" in it. it said "yes, we have 1000 very gifted students," no mention of merit-based, full tuition scholarships anywhere. and thats the fundamental principle of the school
+ME: Thats not the boards job, but I think that anybody that would be applying for that position at cooper union would probably be aware of the scholarship thing. you know when we did the search for the new president, we started off with an initial pool of over 100 people in it. there were a lot of good, qualified people. and the search [??for a variety of reasons??]. there were a lot of good people and wed occasionally get the dentist who thought it might be interesting to run a college for a while. everyone on the board, the finance group, we all knew about cooper. if youre going to cooper union to come for a job, you probably know the story already. cooper is always known for that-
+EE: Is it? no one in Austin has heard of it, I can assure you that
+ME: I dont want to say its known, cooper is not as known as it could be or should be, but I guess the people who are at the dean level I think its known
+EE: Yea well, I would hope so
+ME: Not that we should sit around and not do anything to promote it, but thats just [??a response thats encouraged by the board??]. maybe they should have put that in, but thats not a board decision
+EE: I think that-
+ME: That particlar thing-
+EE: As an alum, I think thats an integral part of when were selecting a new dean, to be aware of what the school is and what this school stands for
+ME: [??] when we did the presidential search, jamshed and the other people, they were all aware of 
+[?????] when the got to the boardroom, [??we knew they werent going to come in??] not knowing what the place was like [??...??] the faculty also have the benefit of selecting their dean, its not something [??the board usually does??]
+EE: Im sorry, you broke up a little there
+ME: The selection of the deans is not really what the board gets involved in. I cant say too much about it. Ive been told that the faculty are getting the  right person. its a conflict of interest for the board [??to hire a particular person??]. the president hires, but at the recommendation of the faculty. the faculty decide the [??]
+EE: Right
+ME: I question the wisdom of that organization, but thats the way it is
+EE: Well I know there was a search committee for a while, and then it sort of-
+ME: It was put on hold
+EE: -to replace Dean Baum
+ME: Nobody stellar came out of it. when we did the search for the president, one of the things that we felt was going on, was that we were taking down the pool and well end up with nobody and have to start again. that was a potential thing that could happen. were lucky that we had a few good people [??] we even if jamshed [??] we had some good options, but we were sure jamsheds the right guy. I hope the dean search goes as well
+EE: I thought that the selection process for jamshed was a little different, I remember hearing an anecdote about trustee Stan Lapidus sort of met him one weekend...
+ME: No, what happened was its a very confidential process, but jamshed was not in the initial pool. [??he became available way beyond??], and stan never made contact with him, that was all. we contacted him because his name came up, its no secret that jamshed was at tufts. stan is from massachusetts. so he met with him and came back and said he thought that was good, and he put jamshed in the pool and went through the same [street?] as everybody else
+EE: Right
+ME: So the fact that drogin is saying that stan lapidus usurped the power of the admissions committee to bring in a [???], again, its the farthest thing from the truth and does a disservice to the school. tony vidler, he was the architecture dean
+EE: Hes retiring, yea
+ME: He was the dean on the committee, I had a dean rep, a faculty rep, student rep, an alumni rep, it was a very competent committee. tony vidler told me that this was the best selection process, committee, that hes ever been on. and he didnt say that just to be nice to me, he didnt have to. he said "This was the best run thing," and [??] was the chairman of that committee, and it was a great process. jamshed came into the process later on, but he went through the process
+EE: Right, ok
+ME: For drogin to spin that... look, stan lapidus is a great guy, hes donated a lot of money to the school, hes great. and to paint him in that kind of [??light??], its offensive to me to go around and put up with that crap, you know? drogin doesnt change things Bill Sandholm. theres a thing about Jonathan Rose and the new building. when you build a building like this, you hire an owners rep. the person was hired to watch over the interests of the owner. [??] you hire an expert [??] to make sure things are being done right, that youre not being screwed, that everythings being done on schedule and proper. so you look for an owners rep, for the school. now Bill Sandholm was in the real estate game his entire life, the big developer. so he works for the Rose family. [??] now jonathan rose happens to be an owners rep, thats what he does. thats his business
+EE: Right
+ME: So bill knows him. so we were looking for a recommendation for owners rep, and bill said "you should consider jonathan rose." he knows him to be a guy of quality for that kind of a job. so jonathan rose was put into the pool
+EE: Well theres also Sandra Priest Rose, right?
+ME: Now when it came time to vote, on who they should select, bill sandholm, promptly recused himself from voting. because he had brought jonathan rose in, and he works for the rose family, because there was an appearance of a potential conflict of interest. [???] he recused himself from the vote
+EE: Oh, ok
+ME: And jonathan rose was voted in
+EE: I wasnt aware of that. every time anybody asked about conflicts of interest, they say that "well, the blank form is publically available but peoples actual conflict of interest statements are confidential," so thats news to me that he did not actually vote. I mean it makes sense, but its news to me
+ME: Now, after the fact, Sandy Rose became a trustee of the school, who is jonathans mother
+EE: Right
+ME: From the Rose family. barry still says, "theyre related, arent they?" during the capital campaign, she donated $5M to the school. it was the largest gift we ever got. thats why we got the rose auditorium, in the new adacemic building
+EE: Right
+ME: Jonathans contract to be the owners rep was for about $250k, which is a fair price for that kind of a job for that size building. thats all. drogin throws it around that sandy donated $5M so that jonathan would get the job, ok? thats what he knows. jonathan had the job before sandy joined and donated money. if jonathan had a $5M contract and sandy donated $250k, yea thats a little questionable, maybe theres something going on. [??we made jonathan roses contract??] before she donated $5M. whats wrong? wheres the conflict, whats the problem with that?
+EE: This is the first time Ive heard it. people have been looking for an answer for that for a long time, and this is the first time Ive heard of that. and this is the sort of thing that could be avoid if we just had a list of who the trustees are and when they became trustees
+ME: Ive spoken to many people over this past year. nobody wants to change their facts with the real ones. that was one of the first things I said: you cant convince people who are working on their own facts. and this is exactly what Im talking about. theyre saw wrong with what took place, everything was done spitefully, accusing people [of doing no good??] and in fact, jonathan did a very good job as owners rep of the academic building. [????] he was extremely competent, did an excellent job, and was barely paid for his work. his mother came along, and because she happens to have raised [???] and she liked cooper union, she donated $5M. [???] but drogin tries to spin it around into a negative to create scandal, when none exists. [??] and they we have people reading, when we want them to donate money to cooper
+EE: Right, well I mean-
+ME: This guy drogin doesnt know what hes talking about and "uncovering all these shenanigans," hes uncovering nothing [??]
+EE: Ok, well thank you for explaining that
+ME: Its the truth. anyone who knows me says, "One thing about mark, you might not like what he says, but hes always telling you the truth," alright? [?what more could you want?]
+EE: Alright
+ME: Everything Im telling you today, I can back up [??] These are not made up facts these are facts. not my facts, these are facts for everyone	
+EE: Yes, youre telling it like it is, telling your opinions and your facts, and I appreciate it
+ME: And when its an opinion I tell you its an opinion, have I done that?
+EE: Yes, you have
+ME: You dont have to agree with my opinions, but youve got to agree with my facts, because theyre the real ones
+EE: Right. I really need to get going. 
+ME: Any other questions?
+EE: I think this is it for now. Thank you, you definitely answered a lot of my questions
+ME: I dont want to hear people telling me they have no access, ok?
+EE: Right, and I appreciate it. would you be ok if I told people about this, what you said here?
+ME: Absolutely, I wish you would
+EE: Great, because I think people really need to know where you come from and your opinions on these sorts of things, and your facts and setting the record straight. If I have any other questions, can I email-
+ME: Anything else, you can contact me
+EE: Thanks a lot
